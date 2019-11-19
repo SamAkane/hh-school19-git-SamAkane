@@ -1,2 +1,6 @@
-*.pyo
-*.pyc
+
+.pyc
+.idea
+.pyc
+.idea
+.pyo
